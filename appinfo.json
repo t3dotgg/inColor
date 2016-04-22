@@ -1,0 +1,19 @@
+{
+  "uuid": "0bfafe6d-7edb-46b3-bd92-b53705b1540d",
+  "shortName": "inColor",
+  "longName": "inColor",
+  "companyName": "MakeAwesomeHappen",
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["aplite", "basalt", "chalk"],
+  "enableMultiJS": true,
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
