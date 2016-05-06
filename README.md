@@ -1,6 +1,6 @@
 inColor
 ==============
-[Website](http://inSquare.Theo.website) | [inSquare Pebble App Store Link](https://apps.getpebble.com/applications/54d9664963eb418376000045) | [RCOS Project Page](http://rcos.rpi.edu/projects/insquare/)
+[Website](http://inSquare.Theo.website) | [inSquare Pebble App Store Link](https://apps.getpebble.com/applications/54d9664963eb418376000045)
 
 
 INFO
@@ -30,6 +30,4 @@ By popular request, we also added vibrate on Bluetooth disconnect. It's a toggle
 
 CREDITS
 ------------
-inSquare is developed by [Theo Browne](http://TheoBrowne.com)
-
-inColor is being developed by [Theo Browne](http://TheoBrowne.com) and [Gregory Bartell](http://gregorybartell.com)
+inSquare and inColor are developed by [Theo Browne](http://TheoBrowne.com)
